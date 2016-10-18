@@ -29,6 +29,7 @@ GITHUB LINKS
 * [Salarza](https://github.com/jsalarza)
 * [Po](https://github.com/eleanorkategpo)
 * [Bonilla](https://github.com/abebonilla1997)
-
+<!--
 * [Nacario](https://github.com/justjhey02)
 * [Dellosa](https://github.com/cjdellosa)
+-->
