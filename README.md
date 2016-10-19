@@ -68,7 +68,7 @@ GITHUB LINKS
   * default
   * What is the base url: ```http://webdriver.io```
 * ```wdio.conf.js``` has been created
-* Choose ```chrome``` as the browser and download its web driver [here](http://chromedriver.storage.googleapis.com/index.html?path=2.24/)
+* Choose ```chrome``` as the browser and download chrome web driver [here](http://chromedriver.storage.googleapis.com/index.html?path=2.24/)
 * Create a test file: ```test/test-homepage.js```
 
     ```javascript
