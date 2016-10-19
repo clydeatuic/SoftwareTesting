@@ -1,5 +1,7 @@
 # SoftwareTesting
 
+[Attendance](https://docs.google.com/spreadsheets/d/17T_mk8vVpri03cPyKkCtPBkz2HqczG8RbFFRD8-fbHk/edit?usp=sharing)
+
 TEST CASES
 
 1. LANDING PAGE
